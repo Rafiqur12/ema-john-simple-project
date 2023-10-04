@@ -4,7 +4,6 @@
     position: sticky;
     top: 0;
 }
-.cart p{
+.cart p, h6{
     font-size: 17px;
-
 }
